@@ -1,0 +1,1932 @@
+{
+  "generatedAt": "2026-03-11T14:02:02.845555+00:00",
+  "source": "RDC3.qlik.vw_AppSheetObjectsCurrent",
+  "requestedAppNames": [
+    "Факт продаж",
+    "Дашборд Редакций",
+    "План-факт продаж Дистрибуции",
+    "Розничные продажи. Все издательства",
+    "Ценовой мониторинг",
+    "Маркетинговый калькулятор",
+    "Маркетинговый дашборд"
+  ],
+  "apps": [
+    {
+      "appName": "Факт продаж",
+      "appId": "7173ee54-74fb-4f16-b586-dbd4278616c6",
+      "sheets": [
+        {
+          "sheetId": "b150cbe5-7f28-4a4f-b85c-15df0a87bd0b",
+          "sheetTitle": "DEV 30-60-90 в руб"
+        },
+        {
+          "sheetId": "e56780ec-1edd-4e0c-9606-6321bb5c3e9e",
+          "sheetTitle": "DEV Возвраты"
+        },
+        {
+          "sheetId": "a338aa3d-4069-437e-921a-6af2cdd876a4",
+          "sheetTitle": "DEV Доля KPI продаж стартовых тиражей за 30-60-90 дней"
+        },
+        {
+          "sheetId": "758dd461-b46e-4cbe-9dd5-75d831d0aa15",
+          "sheetTitle": "DEV Отчёт по оборачиваемости остатков у клиентов"
+        },
+        {
+          "sheetId": "a6713897-0fcf-46c4-88e0-782af28faa64",
+          "sheetTitle": "DEV: Отгрузки больше 1000 шт."
+        },
+        {
+          "sheetId": "8b9ff9a1-38f9-4eb0-b262-4ebd1c96c35c",
+          "sheetTitle": "DEV: Потенциальные аутстоки у клиентов"
+        },
+        {
+          "sheetId": "973318ba-23d1-445f-b812-fc6f462a64b0",
+          "sheetTitle": "DEV_TEST"
+        },
+        {
+          "sheetId": "03107c47-3ba5-4bab-8647-1c1329f3687b",
+          "sheetTitle": "DEV_Новые_розничные"
+        },
+        {
+          "sheetId": "3bb43256-3950-4faf-a32d-2e3424a16b65",
+          "sheetTitle": "DEV_заливка мер"
+        },
+        {
+          "sheetId": "b05c4461-9f3b-41a3-a126-3c445c3f0d2a",
+          "sheetTitle": "DEV_рейтинг авторов произведений"
+        },
+        {
+          "sheetId": "cf96b446-2e99-4f82-a5fb-0356520d1ff5",
+          "sheetTitle": "DEV_рейтинг произведений"
+        },
+        {
+          "sheetId": "8aea2a60-e309-429f-9e23-44ca5336a36c",
+          "sheetTitle": "DEV_рейтинг произведений и авторов 1"
+        },
+        {
+          "sheetId": "adc2649a-f376-4438-b402-11afdb6f9698",
+          "sheetTitle": "Dev_Лонгселлеры"
+        },
+        {
+          "sheetId": "0d8039cf-70fd-4090-b213-956930717dcb",
+          "sheetTitle": "Dev_Не удалять_рентабельность"
+        },
+        {
+          "sheetId": "7fd69251-2527-4521-9a9d-629e4b989cf0",
+          "sheetTitle": "Dev_Сверочный отчет"
+        },
+        {
+          "sheetId": "ecf77f90-2a04-491e-9ddb-e70aa822b7d6",
+          "sheetTitle": "KPI по продажам - Интернет и Неспециализированные сети"
+        },
+        {
+          "sheetId": "cc8f3a55-258b-434e-8181-fa1f217d7a86",
+          "sheetTitle": "KPI по продажам - Интернет и Неспециализированные сети (3)"
+        },
+        {
+          "sheetId": "422eb516-84b7-4d5f-bf05-821716427c7d",
+          "sheetTitle": "TMP Спец. универсальный отчёт для ДЦК"
+        },
+        {
+          "sheetId": "7ee95abf-a7a9-40d8-b0ba-00bd7456afed",
+          "sheetTitle": "TMP Сравнение некнижной продукции"
+        },
+        {
+          "sheetId": "fa17a722-549c-4d36-9fea-6909243153cf",
+          "sheetTitle": "TMP_Универсальный отчёт (простая таблица) (9)"
+        },
+        {
+          "sheetId": "f8b12d9e-ca13-46a4-bf98-5d3e717ae24b",
+          "sheetTitle": "dev_Розничные продажи и отгрузки год к году"
+        },
+        {
+          "sheetId": "7a32d2b5-e57c-4427-b83d-3b7c9fbeaf5e",
+          "sheetTitle": "dev_Розничные продажи, бонусы"
+        },
+        {
+          "sheetId": "003500c7-e22b-4420-8685-2d5ac26fb2c7",
+          "sheetTitle": "tmp_Отчёт для ПЭО"
+        },
+        {
+          "sheetId": "424c4070-863c-421f-ba19-bfb3e1f150e0",
+          "sheetTitle": "Альянсы на реализации 2025"
+        },
+        {
+          "sheetId": "ff142854-a33e-44ec-be92-3a68dd29aaaa",
+          "sheetTitle": "Анализ коэф. реализации по книгам"
+        },
+        {
+          "sheetId": "076f2c72-2595-4da0-890a-7422928ae46c",
+          "sheetTitle": "Анализ продаж по редакторам"
+        },
+        {
+          "sheetId": "e5e95db4-542b-4cd7-8f66-b1a45a3fcf4b",
+          "sheetTitle": "Возвраты"
+        },
+        {
+          "sheetId": "16c30bbf-e9f2-4bad-bb4d-309c9162caaa",
+          "sheetTitle": "Данные по РДЦ и каналам"
+        },
+        {
+          "sheetId": "acf8bdb3-f20b-4fc0-8b88-e0aad64f7a9d",
+          "sheetTitle": "Детализация по документам"
+        },
+        {
+          "sheetId": "f724812d-d7fa-4a25-8087-0121da83dbec",
+          "sheetTitle": "Динамика KPI в штуках, янв-фев.25 к ноя-дек.24"
+        },
+        {
+          "sheetId": "f2cc576b-d0b8-4269-8a74-f96253966082",
+          "sheetTitle": "Динамика рентабельности чистых продаж по контуру дистрибуции по альянсам_OLD"
+        },
+        {
+          "sheetId": "f019ce7d-bb4a-4ecc-95d7-6f2c060e87b7",
+          "sheetTitle": "Динамика рентабельности чистых продаж по контуру дистрибуции_OLD"
+        },
+        {
+          "sheetId": "84a1c080-9c6b-4c04-b8f0-fa540effde31",
+          "sheetTitle": "Доля KPI по продажам за 30-60-90 дней"
+        },
+        {
+          "sheetId": "cf58b645-ad22-48a7-879b-2f22ee65c197",
+          "sheetTitle": "Доля продаж стартовых тиражей за 30-60-90 дней"
+        },
+        {
+          "sheetId": "5ee3f21f-addb-49a3-aafb-133906de20eb",
+          "sheetTitle": "Доля розничных продаж стартовых тиражей в отгрузках за 30-60-90 дней (ЧГ и Вайлдберриз)"
+        },
+        {
+          "sheetId": "f61dfe71-9f5e-4563-a859-797afa120b9a",
+          "sheetTitle": "Драйверы динамики оборачиваемости ДЗ"
+        },
+        {
+          "sheetId": "4d920f5c-ac38-4397-8e6e-c80ae144e196",
+          "sheetTitle": "Драйверы динамики рентабельности по контуру дистрибуции_OLD"
+        },
+        {
+          "sheetId": "88224123-156c-496e-96f3-35e29ba7e080",
+          "sheetTitle": "Драйверы динамики чистых продаж"
+        },
+        {
+          "sheetId": "5ef5dabc-aa58-4eed-a18a-2f01c32b10d4",
+          "sheetTitle": "Дэшборд редактора (разработка)"
+        },
+        {
+          "sheetId": "1452f937-2359-471e-8f22-62d72cf0844a",
+          "sheetTitle": "Еженедельная динамика розничных продаж"
+        },
+        {
+          "sheetId": "501ef2dc-b163-4c59-846c-91e2a82f416b",
+          "sheetTitle": "Карточка автора"
+        },
+        {
+          "sheetId": "425d488f-4e68-435a-b047-e4d8e2bb8684",
+          "sheetTitle": "Карточка автора (old)"
+        },
+        {
+          "sheetId": "6ab7c51f-defe-49bc-bd2d-3dc1cb1d6890",
+          "sheetTitle": "Карточка альянса"
+        },
+        {
+          "sheetId": "8fb3fa01-655a-4168-9aae-aea685d0edea",
+          "sheetTitle": "Карточка номенклатуры"
+        },
+        {
+          "sheetId": "7039109d-779f-4782-92dc-d84b5cfecfa3",
+          "sheetTitle": "Лабиринт и ЧГ"
+        },
+        {
+          "sheetId": "fcf9df44-6a74-4b96-b289-4d57a5d34266",
+          "sheetTitle": "Лабиринт и ЧГ (Изменение)"
+        },
+        {
+          "sheetId": "c5180ad9-3f0d-4ac7-8472-7e03d7da2b85",
+          "sheetTitle": "Ликвидность текущих запасов у клиентов"
+        },
+        {
+          "sheetId": "9caba658-ce2c-4877-a778-b12589389676",
+          "sheetTitle": "Мой новый лист"
+        },
+        {
+          "sheetId": "40562c7c-010c-48cd-a0a3-6130f3c5d52f",
+          "sheetTitle": "Мощность ОРС"
+        },
+        {
+          "sheetId": "4dbec6ba-de07-4b2e-a059-0b4d2d6d120e",
+          "sheetTitle": "Недогрузы по альянсам"
+        },
+        {
+          "sheetId": "34c831c4-d49e-4e0e-8dc3-ff24514b8e47",
+          "sheetTitle": "Недогрузы по книгам"
+        },
+        {
+          "sheetId": "d75807ea-f23d-49d0-beef-da000eda543c",
+          "sheetTitle": "Недопродажи по розничным продажам"
+        },
+        {
+          "sheetId": "ae7d01cd-a54a-4b04-b5e0-2332ef80a69e",
+          "sheetTitle": "Неликвиды"
+        },
+        {
+          "sheetId": "14257742-7310-4f4b-b03c-86126dd38010",
+          "sheetTitle": "Прайс-индекс"
+        },
+        {
+          "sheetId": "0e3141f4-8079-4de6-bbb0-40aa33c3430b",
+          "sheetTitle": "Продажи Эксмо по категориям СУА"
+        },
+        {
+          "sheetId": "3a69186b-8b77-4dae-8b4b-54605c3e9e57",
+          "sheetTitle": "Продажи по альянсам"
+        },
+        {
+          "sheetId": "5872ad94-fd03-4f2a-b6b8-8d61561ca615",
+          "sheetTitle": "Продажи по клиентам"
+        },
+        {
+          "sheetId": "40bf6732-bb0e-44d0-99de-e2c3df8d6884",
+          "sheetTitle": "Продажи по комплектам (c KPI)"
+        },
+        {
+          "sheetId": "d24430da-b422-47d2-8556-e98cc492a417",
+          "sheetTitle": "Продажи по нишам"
+        },
+        {
+          "sheetId": "b703ee61-498e-4e6d-86ab-c42e5702db12",
+          "sheetTitle": "Продажи по отделам редакций"
+        },
+        {
+          "sheetId": "769cd429-d734-4332-a9ce-6dc73ef22d36",
+          "sheetTitle": "Продажи по федеральным округам DEV"
+        },
+        {
+          "sheetId": "359c0e60-4b35-4e93-a70f-31e3250ac2c0",
+          "sheetTitle": "Рассмотреть печать POD"
+        },
+        {
+          "sheetId": "b05c4461-9f3b-41a3-a126-3c445c3f0d2a",
+          "sheetTitle": "Рейтинг авторов произведений"
+        },
+        {
+          "sheetId": "cf96b446-2e99-4f82-a5fb-0356520d1ff5",
+          "sheetTitle": "Рейтинг произведений"
+        },
+        {
+          "sheetId": "ef0744ab-27ca-4988-8367-3cfef05baca4",
+          "sheetTitle": "Рейтинг розничных продаж книг"
+        },
+        {
+          "sheetId": "a02cc265-93f5-4150-9130-9ee88b8fca48",
+          "sheetTitle": "Рейтинг серий"
+        },
+        {
+          "sheetId": "a53554aa-42f7-4f1a-a68f-069091858ff7",
+          "sheetTitle": "Рейтинг серий с данными по охвату"
+        },
+        {
+          "sheetId": "4f5ebb69-6424-4bdc-b920-c9ab1a7d0767",
+          "sheetTitle": "Рейтинг чистых продаж книг"
+        },
+        {
+          "sheetId": "f6e94777-4908-48b1-acf8-7d92a2908958",
+          "sheetTitle": "Рейтинг чистых продаж книг с данными по охвату"
+        },
+        {
+          "sheetId": "3ee9dd5b-b471-43b1-8846-0ced2634ac94",
+          "sheetTitle": "Рейтинги авторов"
+        },
+        {
+          "sheetId": "0d9c1268-5653-4768-8145-b2b886420dc8",
+          "sheetTitle": "Рентабельность Каталоги и ЧТУП"
+        },
+        {
+          "sheetId": "00d5f94a-b9ae-4750-8199-4f1e18c80d1f",
+          "sheetTitle": "Рентабельность и скидка ДД"
+        },
+        {
+          "sheetId": "77aa4b8c-db4f-4a19-bc3b-f84f8fa27fbe",
+          "sheetTitle": "Рентабельность по альянсам"
+        },
+        {
+          "sheetId": "e3630e1c-8310-4fcf-8a17-f6aba1a97d90",
+          "sheetTitle": "Рентабельность по альянсам_new"
+        },
+        {
+          "sheetId": "51ceb6de-0033-42cd-ae56-6464688368b3",
+          "sheetTitle": "Рентабельность по каналам"
+        },
+        {
+          "sheetId": "987c9c96-091a-4973-9133-93ea12b125fb",
+          "sheetTitle": "Рентабельность чистых продаж по контуру дистрибуции по альянсам_OLD"
+        },
+        {
+          "sheetId": "33ead0e4-ae39-4f7b-8e40-6fe15f70ea3a",
+          "sheetTitle": "Рентабельность чистых продаж по контуру дистрибуции по номенклатуре_OLD"
+        },
+        {
+          "sheetId": "6b7aeedf-3e42-4504-b2d1-389c170804f1",
+          "sheetTitle": "Розничные продажи по альянсам"
+        },
+        {
+          "sheetId": "47a6bdb1-e026-49bc-90f0-3d9f6de68582",
+          "sheetTitle": "Скидка по альянсам"
+        },
+        {
+          "sheetId": "0cf24705-529a-4d0e-9cf6-d306965ce697",
+          "sheetTitle": "Скидка по номенклатуре"
+        },
+        {
+          "sheetId": "83faf0c7-eb1d-4317-9272-a338d08e5418",
+          "sheetTitle": "Слабые стартовые отгрузки ОРС"
+        },
+        {
+          "sheetId": "c09efe07-7bda-4f9b-a90a-dbbaac1e3ce8",
+          "sheetTitle": "Слабые стартовые продажи"
+        },
+        {
+          "sheetId": "e1ec681f-5886-44e1-89a7-a14283650be0",
+          "sheetTitle": "Служебная_Проверка_данных"
+        },
+        {
+          "sheetId": "41d912bd-4755-4297-b33c-1c865b6f18c7",
+          "sheetTitle": "Служебный. Скидка по номенклатуре"
+        },
+        {
+          "sheetId": "b56786dd-e3c7-4c47-90c2-ead88e3a321d",
+          "sheetTitle": "Служебный: Мониторинг розничных продаж"
+        },
+        {
+          "sheetId": "d4b9808a-a0a2-4028-9404-bb924cc797fb",
+          "sheetTitle": "Служебный: Статус по сбору данных по розничным продажам"
+        },
+        {
+          "sheetId": "cf872dd0-bd53-4c0f-8b86-6d0075f38b3d",
+          "sheetTitle": "Содержание"
+        },
+        {
+          "sheetId": "b2b83eed-13da-4ac3-94a6-e419a4adb5ea",
+          "sheetTitle": "Сравнение номенклатуры"
+        },
+        {
+          "sheetId": "60b77019-5526-4a80-b45c-4e18acad15f7",
+          "sheetTitle": "Сравнение приростов розничных продаж"
+        },
+        {
+          "sheetId": "27c5d003-8218-429c-9605-dd75cedbce22",
+          "sheetTitle": "Сравнение продаж книг по топовым клиентам"
+        },
+        {
+          "sheetId": "4b9d0f4a-33cc-4aa9-9ad5-4c5f58aadb41",
+          "sheetTitle": "Сравнение продаж по МП и ОРС, янв.25 vs дек.24"
+        },
+        {
+          "sheetId": "17cc8d5b-57f6-493c-95c1-bfc5e707f8fe",
+          "sheetTitle": "Сравнение продаж по МП и ОРС, янв.25 vs ноя.24"
+        },
+        {
+          "sheetId": "ff986fc9-15bd-4033-9513-c1a5fabcec39",
+          "sheetTitle": "Сравнительная динамика продаж по редакциям и альянсам"
+        },
+        {
+          "sheetId": "d90d80fb-4199-4323-be97-1b3ba6cccb4e",
+          "sheetTitle": "Стартовые отгрузки по клиентам"
+        },
+        {
+          "sheetId": "470ebce0-9310-4d28-8e4f-5d1c62a19b8d",
+          "sheetTitle": "ТЕСТ Бренд-менеджеры"
+        },
+        {
+          "sheetId": "c526ba8c-ee5f-4628-8f2f-5f3bf490c4a8",
+          "sheetTitle": "ТЕСТ Доля KPI продаж стартовых тиражей за 30-60-90 дней"
+        },
+        {
+          "sheetId": "6947117b-1345-4e80-bb44-2b75648d0f51",
+          "sheetTitle": "ТЕСТ Кудрявцева Вероника"
+        },
+        {
+          "sheetId": "40257208-8ca2-4a3c-9b15-ed6fd65eb084",
+          "sheetTitle": "ТЕСТ Отчет по некнижке"
+        },
+        {
+          "sheetId": "de4112ba-9fee-45a0-a802-466ef9a82a10",
+          "sheetTitle": "ТЕСТ Продажи в интернет канале по ЕКН"
+        },
+        {
+          "sheetId": "ed8e2677-3291-41d3-8b47-0a0d3e520bb7",
+          "sheetTitle": "Тест"
+        },
+        {
+          "sheetId": "0651dca2-f256-4758-8523-3d5b5d9a23ae",
+          "sheetTitle": "Универсальный отчёт"
+        },
+        {
+          "sheetId": "02f5dbc7-21b8-4ea1-a603-95949cd403d8",
+          "sheetTitle": "Универсальный отчёт (простая таблица)"
+        },
+        {
+          "sheetId": "732694be-6ca2-47eb-9f88-2b2e062ed670",
+          "sheetTitle": "Универсальный отчёт (простая таблица)"
+        },
+        {
+          "sheetId": "2da376df-8cc0-4724-bb7b-af38066ded50",
+          "sheetTitle": "Универсальный отчёт со ссылкой на текущие фильтры"
+        },
+        {
+          "sheetId": "2905ff68-db58-424b-9aa9-9389d5cb7194",
+          "sheetTitle": "Цифровая продукция"
+        },
+        {
+          "sheetId": "b6b3e398-458f-4ae8-9eaf-1e4788ae12cb",
+          "sheetTitle": "Широта ассортимента"
+        }
+      ],
+      "mainSheets": [
+        {
+          "sheetId": "ecf77f90-2a04-491e-9ddb-e70aa822b7d6",
+          "sheetTitle": "KPI по продажам - Интернет и Неспециализированные сети"
+        },
+        {
+          "sheetId": "422eb516-84b7-4d5f-bf05-821716427c7d",
+          "sheetTitle": "TMP Спец. универсальный отчёт для ДЦК"
+        },
+        {
+          "sheetId": "7ee95abf-a7a9-40d8-b0ba-00bd7456afed",
+          "sheetTitle": "TMP Сравнение некнижной продукции"
+        },
+        {
+          "sheetId": "003500c7-e22b-4420-8685-2d5ac26fb2c7",
+          "sheetTitle": "tmp_Отчёт для ПЭО"
+        },
+        {
+          "sheetId": "424c4070-863c-421f-ba19-bfb3e1f150e0",
+          "sheetTitle": "Альянсы на реализации 2025"
+        },
+        {
+          "sheetId": "ff142854-a33e-44ec-be92-3a68dd29aaaa",
+          "sheetTitle": "Анализ коэф. реализации по книгам"
+        },
+        {
+          "sheetId": "076f2c72-2595-4da0-890a-7422928ae46c",
+          "sheetTitle": "Анализ продаж по редакторам"
+        },
+        {
+          "sheetId": "e5e95db4-542b-4cd7-8f66-b1a45a3fcf4b",
+          "sheetTitle": "Возвраты"
+        },
+        {
+          "sheetId": "16c30bbf-e9f2-4bad-bb4d-309c9162caaa",
+          "sheetTitle": "Данные по РДЦ и каналам"
+        },
+        {
+          "sheetId": "acf8bdb3-f20b-4fc0-8b88-e0aad64f7a9d",
+          "sheetTitle": "Детализация по документам"
+        },
+        {
+          "sheetId": "f724812d-d7fa-4a25-8087-0121da83dbec",
+          "sheetTitle": "Динамика KPI в штуках, янв-фев.25 к ноя-дек.24"
+        },
+        {
+          "sheetId": "f2cc576b-d0b8-4269-8a74-f96253966082",
+          "sheetTitle": "Динамика рентабельности чистых продаж по контуру дистрибуции по альянсам_OLD"
+        },
+        {
+          "sheetId": "f019ce7d-bb4a-4ecc-95d7-6f2c060e87b7",
+          "sheetTitle": "Динамика рентабельности чистых продаж по контуру дистрибуции_OLD"
+        },
+        {
+          "sheetId": "84a1c080-9c6b-4c04-b8f0-fa540effde31",
+          "sheetTitle": "Доля KPI по продажам за 30-60-90 дней"
+        },
+        {
+          "sheetId": "cf58b645-ad22-48a7-879b-2f22ee65c197",
+          "sheetTitle": "Доля продаж стартовых тиражей за 30-60-90 дней"
+        },
+        {
+          "sheetId": "5ee3f21f-addb-49a3-aafb-133906de20eb",
+          "sheetTitle": "Доля розничных продаж стартовых тиражей в отгрузках за 30-60-90 дней (ЧГ и Вайлдберриз)"
+        },
+        {
+          "sheetId": "f61dfe71-9f5e-4563-a859-797afa120b9a",
+          "sheetTitle": "Драйверы динамики оборачиваемости ДЗ"
+        },
+        {
+          "sheetId": "4d920f5c-ac38-4397-8e6e-c80ae144e196",
+          "sheetTitle": "Драйверы динамики рентабельности по контуру дистрибуции_OLD"
+        },
+        {
+          "sheetId": "88224123-156c-496e-96f3-35e29ba7e080",
+          "sheetTitle": "Драйверы динамики чистых продаж"
+        },
+        {
+          "sheetId": "5ef5dabc-aa58-4eed-a18a-2f01c32b10d4",
+          "sheetTitle": "Дэшборд редактора (разработка)"
+        },
+        {
+          "sheetId": "1452f937-2359-471e-8f22-62d72cf0844a",
+          "sheetTitle": "Еженедельная динамика розничных продаж"
+        },
+        {
+          "sheetId": "501ef2dc-b163-4c59-846c-91e2a82f416b",
+          "sheetTitle": "Карточка автора"
+        },
+        {
+          "sheetId": "425d488f-4e68-435a-b047-e4d8e2bb8684",
+          "sheetTitle": "Карточка автора (old)"
+        },
+        {
+          "sheetId": "6ab7c51f-defe-49bc-bd2d-3dc1cb1d6890",
+          "sheetTitle": "Карточка альянса"
+        },
+        {
+          "sheetId": "8fb3fa01-655a-4168-9aae-aea685d0edea",
+          "sheetTitle": "Карточка номенклатуры"
+        },
+        {
+          "sheetId": "7039109d-779f-4782-92dc-d84b5cfecfa3",
+          "sheetTitle": "Лабиринт и ЧГ"
+        },
+        {
+          "sheetId": "fcf9df44-6a74-4b96-b289-4d57a5d34266",
+          "sheetTitle": "Лабиринт и ЧГ (Изменение)"
+        },
+        {
+          "sheetId": "c5180ad9-3f0d-4ac7-8472-7e03d7da2b85",
+          "sheetTitle": "Ликвидность текущих запасов у клиентов"
+        },
+        {
+          "sheetId": "9caba658-ce2c-4877-a778-b12589389676",
+          "sheetTitle": "Мой новый лист"
+        },
+        {
+          "sheetId": "40562c7c-010c-48cd-a0a3-6130f3c5d52f",
+          "sheetTitle": "Мощность ОРС"
+        },
+        {
+          "sheetId": "4dbec6ba-de07-4b2e-a059-0b4d2d6d120e",
+          "sheetTitle": "Недогрузы по альянсам"
+        },
+        {
+          "sheetId": "34c831c4-d49e-4e0e-8dc3-ff24514b8e47",
+          "sheetTitle": "Недогрузы по книгам"
+        },
+        {
+          "sheetId": "d75807ea-f23d-49d0-beef-da000eda543c",
+          "sheetTitle": "Недопродажи по розничным продажам"
+        },
+        {
+          "sheetId": "ae7d01cd-a54a-4b04-b5e0-2332ef80a69e",
+          "sheetTitle": "Неликвиды"
+        },
+        {
+          "sheetId": "14257742-7310-4f4b-b03c-86126dd38010",
+          "sheetTitle": "Прайс-индекс"
+        },
+        {
+          "sheetId": "0e3141f4-8079-4de6-bbb0-40aa33c3430b",
+          "sheetTitle": "Продажи Эксмо по категориям СУА"
+        },
+        {
+          "sheetId": "3a69186b-8b77-4dae-8b4b-54605c3e9e57",
+          "sheetTitle": "Продажи по альянсам"
+        },
+        {
+          "sheetId": "5872ad94-fd03-4f2a-b6b8-8d61561ca615",
+          "sheetTitle": "Продажи по клиентам"
+        },
+        {
+          "sheetId": "40bf6732-bb0e-44d0-99de-e2c3df8d6884",
+          "sheetTitle": "Продажи по комплектам (c KPI)"
+        },
+        {
+          "sheetId": "d24430da-b422-47d2-8556-e98cc492a417",
+          "sheetTitle": "Продажи по нишам"
+        },
+        {
+          "sheetId": "b703ee61-498e-4e6d-86ab-c42e5702db12",
+          "sheetTitle": "Продажи по отделам редакций"
+        },
+        {
+          "sheetId": "359c0e60-4b35-4e93-a70f-31e3250ac2c0",
+          "sheetTitle": "Рассмотреть печать POD"
+        },
+        {
+          "sheetId": "b05c4461-9f3b-41a3-a126-3c445c3f0d2a",
+          "sheetTitle": "Рейтинг авторов произведений"
+        },
+        {
+          "sheetId": "cf96b446-2e99-4f82-a5fb-0356520d1ff5",
+          "sheetTitle": "Рейтинг произведений"
+        },
+        {
+          "sheetId": "ef0744ab-27ca-4988-8367-3cfef05baca4",
+          "sheetTitle": "Рейтинг розничных продаж книг"
+        },
+        {
+          "sheetId": "a02cc265-93f5-4150-9130-9ee88b8fca48",
+          "sheetTitle": "Рейтинг серий"
+        },
+        {
+          "sheetId": "a53554aa-42f7-4f1a-a68f-069091858ff7",
+          "sheetTitle": "Рейтинг серий с данными по охвату"
+        },
+        {
+          "sheetId": "4f5ebb69-6424-4bdc-b920-c9ab1a7d0767",
+          "sheetTitle": "Рейтинг чистых продаж книг"
+        },
+        {
+          "sheetId": "f6e94777-4908-48b1-acf8-7d92a2908958",
+          "sheetTitle": "Рейтинг чистых продаж книг с данными по охвату"
+        },
+        {
+          "sheetId": "3ee9dd5b-b471-43b1-8846-0ced2634ac94",
+          "sheetTitle": "Рейтинги авторов"
+        },
+        {
+          "sheetId": "0d9c1268-5653-4768-8145-b2b886420dc8",
+          "sheetTitle": "Рентабельность Каталоги и ЧТУП"
+        },
+        {
+          "sheetId": "00d5f94a-b9ae-4750-8199-4f1e18c80d1f",
+          "sheetTitle": "Рентабельность и скидка ДД"
+        },
+        {
+          "sheetId": "77aa4b8c-db4f-4a19-bc3b-f84f8fa27fbe",
+          "sheetTitle": "Рентабельность по альянсам"
+        },
+        {
+          "sheetId": "e3630e1c-8310-4fcf-8a17-f6aba1a97d90",
+          "sheetTitle": "Рентабельность по альянсам_new"
+        },
+        {
+          "sheetId": "51ceb6de-0033-42cd-ae56-6464688368b3",
+          "sheetTitle": "Рентабельность по каналам"
+        },
+        {
+          "sheetId": "987c9c96-091a-4973-9133-93ea12b125fb",
+          "sheetTitle": "Рентабельность чистых продаж по контуру дистрибуции по альянсам_OLD"
+        },
+        {
+          "sheetId": "33ead0e4-ae39-4f7b-8e40-6fe15f70ea3a",
+          "sheetTitle": "Рентабельность чистых продаж по контуру дистрибуции по номенклатуре_OLD"
+        },
+        {
+          "sheetId": "6b7aeedf-3e42-4504-b2d1-389c170804f1",
+          "sheetTitle": "Розничные продажи по альянсам"
+        },
+        {
+          "sheetId": "47a6bdb1-e026-49bc-90f0-3d9f6de68582",
+          "sheetTitle": "Скидка по альянсам"
+        },
+        {
+          "sheetId": "0cf24705-529a-4d0e-9cf6-d306965ce697",
+          "sheetTitle": "Скидка по номенклатуре"
+        },
+        {
+          "sheetId": "83faf0c7-eb1d-4317-9272-a338d08e5418",
+          "sheetTitle": "Слабые стартовые отгрузки ОРС"
+        },
+        {
+          "sheetId": "c09efe07-7bda-4f9b-a90a-dbbaac1e3ce8",
+          "sheetTitle": "Слабые стартовые продажи"
+        },
+        {
+          "sheetId": "e1ec681f-5886-44e1-89a7-a14283650be0",
+          "sheetTitle": "Служебная_Проверка_данных"
+        },
+        {
+          "sheetId": "41d912bd-4755-4297-b33c-1c865b6f18c7",
+          "sheetTitle": "Служебный. Скидка по номенклатуре"
+        },
+        {
+          "sheetId": "b56786dd-e3c7-4c47-90c2-ead88e3a321d",
+          "sheetTitle": "Служебный: Мониторинг розничных продаж"
+        },
+        {
+          "sheetId": "d4b9808a-a0a2-4028-9404-bb924cc797fb",
+          "sheetTitle": "Служебный: Статус по сбору данных по розничным продажам"
+        },
+        {
+          "sheetId": "cf872dd0-bd53-4c0f-8b86-6d0075f38b3d",
+          "sheetTitle": "Содержание"
+        },
+        {
+          "sheetId": "b2b83eed-13da-4ac3-94a6-e419a4adb5ea",
+          "sheetTitle": "Сравнение номенклатуры"
+        },
+        {
+          "sheetId": "60b77019-5526-4a80-b45c-4e18acad15f7",
+          "sheetTitle": "Сравнение приростов розничных продаж"
+        },
+        {
+          "sheetId": "27c5d003-8218-429c-9605-dd75cedbce22",
+          "sheetTitle": "Сравнение продаж книг по топовым клиентам"
+        },
+        {
+          "sheetId": "4b9d0f4a-33cc-4aa9-9ad5-4c5f58aadb41",
+          "sheetTitle": "Сравнение продаж по МП и ОРС, янв.25 vs дек.24"
+        },
+        {
+          "sheetId": "17cc8d5b-57f6-493c-95c1-bfc5e707f8fe",
+          "sheetTitle": "Сравнение продаж по МП и ОРС, янв.25 vs ноя.24"
+        },
+        {
+          "sheetId": "ff986fc9-15bd-4033-9513-c1a5fabcec39",
+          "sheetTitle": "Сравнительная динамика продаж по редакциям и альянсам"
+        },
+        {
+          "sheetId": "d90d80fb-4199-4323-be97-1b3ba6cccb4e",
+          "sheetTitle": "Стартовые отгрузки по клиентам"
+        },
+        {
+          "sheetId": "0651dca2-f256-4758-8523-3d5b5d9a23ae",
+          "sheetTitle": "Универсальный отчёт"
+        },
+        {
+          "sheetId": "02f5dbc7-21b8-4ea1-a603-95949cd403d8",
+          "sheetTitle": "Универсальный отчёт (простая таблица)"
+        },
+        {
+          "sheetId": "732694be-6ca2-47eb-9f88-2b2e062ed670",
+          "sheetTitle": "Универсальный отчёт (простая таблица)"
+        },
+        {
+          "sheetId": "2da376df-8cc0-4724-bb7b-af38066ded50",
+          "sheetTitle": "Универсальный отчёт со ссылкой на текущие фильтры"
+        },
+        {
+          "sheetId": "2905ff68-db58-424b-9aa9-9389d5cb7194",
+          "sheetTitle": "Цифровая продукция"
+        },
+        {
+          "sheetId": "b6b3e398-458f-4ae8-9eaf-1e4788ae12cb",
+          "sheetTitle": "Широта ассортимента"
+        }
+      ],
+      "technicalSheets": [
+        {
+          "sheetId": "b150cbe5-7f28-4a4f-b85c-15df0a87bd0b",
+          "sheetTitle": "DEV 30-60-90 в руб"
+        },
+        {
+          "sheetId": "e56780ec-1edd-4e0c-9606-6321bb5c3e9e",
+          "sheetTitle": "DEV Возвраты"
+        },
+        {
+          "sheetId": "a338aa3d-4069-437e-921a-6af2cdd876a4",
+          "sheetTitle": "DEV Доля KPI продаж стартовых тиражей за 30-60-90 дней"
+        },
+        {
+          "sheetId": "758dd461-b46e-4cbe-9dd5-75d831d0aa15",
+          "sheetTitle": "DEV Отчёт по оборачиваемости остатков у клиентов"
+        },
+        {
+          "sheetId": "a6713897-0fcf-46c4-88e0-782af28faa64",
+          "sheetTitle": "DEV: Отгрузки больше 1000 шт."
+        },
+        {
+          "sheetId": "8b9ff9a1-38f9-4eb0-b262-4ebd1c96c35c",
+          "sheetTitle": "DEV: Потенциальные аутстоки у клиентов"
+        },
+        {
+          "sheetId": "973318ba-23d1-445f-b812-fc6f462a64b0",
+          "sheetTitle": "DEV_TEST"
+        },
+        {
+          "sheetId": "03107c47-3ba5-4bab-8647-1c1329f3687b",
+          "sheetTitle": "DEV_Новые_розничные"
+        },
+        {
+          "sheetId": "3bb43256-3950-4faf-a32d-2e3424a16b65",
+          "sheetTitle": "DEV_заливка мер"
+        },
+        {
+          "sheetId": "b05c4461-9f3b-41a3-a126-3c445c3f0d2a",
+          "sheetTitle": "DEV_рейтинг авторов произведений"
+        },
+        {
+          "sheetId": "cf96b446-2e99-4f82-a5fb-0356520d1ff5",
+          "sheetTitle": "DEV_рейтинг произведений"
+        },
+        {
+          "sheetId": "8aea2a60-e309-429f-9e23-44ca5336a36c",
+          "sheetTitle": "DEV_рейтинг произведений и авторов 1"
+        },
+        {
+          "sheetId": "adc2649a-f376-4438-b402-11afdb6f9698",
+          "sheetTitle": "Dev_Лонгселлеры"
+        },
+        {
+          "sheetId": "0d8039cf-70fd-4090-b213-956930717dcb",
+          "sheetTitle": "Dev_Не удалять_рентабельность"
+        },
+        {
+          "sheetId": "7fd69251-2527-4521-9a9d-629e4b989cf0",
+          "sheetTitle": "Dev_Сверочный отчет"
+        },
+        {
+          "sheetId": "cc8f3a55-258b-434e-8181-fa1f217d7a86",
+          "sheetTitle": "KPI по продажам - Интернет и Неспециализированные сети (3)"
+        },
+        {
+          "sheetId": "fa17a722-549c-4d36-9fea-6909243153cf",
+          "sheetTitle": "TMP_Универсальный отчёт (простая таблица) (9)"
+        },
+        {
+          "sheetId": "f8b12d9e-ca13-46a4-bf98-5d3e717ae24b",
+          "sheetTitle": "dev_Розничные продажи и отгрузки год к году"
+        },
+        {
+          "sheetId": "7a32d2b5-e57c-4427-b83d-3b7c9fbeaf5e",
+          "sheetTitle": "dev_Розничные продажи, бонусы"
+        },
+        {
+          "sheetId": "769cd429-d734-4332-a9ce-6dc73ef22d36",
+          "sheetTitle": "Продажи по федеральным округам DEV"
+        },
+        {
+          "sheetId": "470ebce0-9310-4d28-8e4f-5d1c62a19b8d",
+          "sheetTitle": "ТЕСТ Бренд-менеджеры"
+        },
+        {
+          "sheetId": "c526ba8c-ee5f-4628-8f2f-5f3bf490c4a8",
+          "sheetTitle": "ТЕСТ Доля KPI продаж стартовых тиражей за 30-60-90 дней"
+        },
+        {
+          "sheetId": "6947117b-1345-4e80-bb44-2b75648d0f51",
+          "sheetTitle": "ТЕСТ Кудрявцева Вероника"
+        },
+        {
+          "sheetId": "40257208-8ca2-4a3c-9b15-ed6fd65eb084",
+          "sheetTitle": "ТЕСТ Отчет по некнижке"
+        },
+        {
+          "sheetId": "de4112ba-9fee-45a0-a802-466ef9a82a10",
+          "sheetTitle": "ТЕСТ Продажи в интернет канале по ЕКН"
+        },
+        {
+          "sheetId": "ed8e2677-3291-41d3-8b47-0a0d3e520bb7",
+          "sheetTitle": "Тест"
+        }
+      ]
+    },
+    {
+      "appName": "Дашборд Редакций",
+      "appId": "34a00295-e998-4f38-b209-b8944df73847",
+      "sheets": [
+        {
+          "sheetId": "46fd738e-e4f7-4ce1-9304-e966191dd93a",
+          "sheetTitle": "DEV_Дневник редактора"
+        },
+        {
+          "sheetId": "e10ce9bb-4212-455b-8f43-c1da4a287e6d",
+          "sheetTitle": "DEV_Дневник редактора"
+        },
+        {
+          "sheetId": "f74899fe-160b-4743-861d-b39a6f2aae03",
+          "sheetTitle": "Dev_front_back"
+        },
+        {
+          "sheetId": "fb65e951-db5a-4a41-9434-c4c04d5ccfc4",
+          "sheetTitle": "Dev_Квартальные итоги (30-60-90) по отгрузкам"
+        },
+        {
+          "sheetId": "8d18df67-1f8c-4ff2-b404-053c7b574537",
+          "sheetTitle": "Dev_Прогнозы"
+        },
+        {
+          "sheetId": "3cb73060-37b3-4abf-8a62-187d564421bf",
+          "sheetTitle": "old_Квартальные итоги (30-60-90)"
+        },
+        {
+          "sheetId": "459ba39b-b5f5-4b1c-a066-b0a09a7b8441",
+          "sheetTitle": "Дашборд Оперативный"
+        },
+        {
+          "sheetId": "70f8a0aa-d1a6-409f-b55e-b4d91ebe2201",
+          "sheetTitle": "Дашборд по итогам месяца"
+        },
+        {
+          "sheetId": "304ac5d8-f712-4201-8497-8ae9ebb4bfb7",
+          "sheetTitle": "Динамика потребления. Условные часы"
+        },
+        {
+          "sheetId": "02aa21a6-5eb2-46e7-8cb4-c0405fdfb825",
+          "sheetTitle": "Динамика потребления.Подписка"
+        },
+        {
+          "sheetId": "873c672c-6d14-4150-84e3-1f27c3c2d763",
+          "sheetTitle": "Динамика потребления.Подписка"
+        },
+        {
+          "sheetId": "02aa21a6-5eb2-46e7-8cb4-c0405fdfb825",
+          "sheetTitle": "Динамика потребления.Скачивания"
+        },
+        {
+          "sheetId": "873c672c-6d14-4150-84e3-1f27c3c2d763",
+          "sheetTitle": "Динамика потребления.Скачивания"
+        },
+        {
+          "sheetId": "6abafcce-b3cc-43f5-b5b4-c27f1b851a3d",
+          "sheetTitle": "Динамика потребления.Фиксы общие"
+        },
+        {
+          "sheetId": "d7ef74bb-5d67-4edf-b0bc-2b7fbf051fc4",
+          "sheetTitle": "Динамика скачиваний и подписки ЦП  в руб. за 12 месяцев"
+        },
+        {
+          "sheetId": "e10ce9bb-4212-455b-8f43-c1da4a287e6d",
+          "sheetTitle": "Дневник редактора"
+        },
+        {
+          "sheetId": "7f0b229a-cac0-48e6-9c6c-4c1b69f77b6e",
+          "sheetTitle": "Доптиражи (2-3-4)"
+        },
+        {
+          "sheetId": "24306a18-c629-4350-b723-c2d9924cd760",
+          "sheetTitle": "Каналы и альянсы"
+        },
+        {
+          "sheetId": "219a8310-ecbd-4a9f-bc88-2bfc0819f97e",
+          "sheetTitle": "Квартальные итоги (30-60-90)"
+        },
+        {
+          "sheetId": "2109c23c-aa30-4369-8155-f69277cd8e97",
+          "sheetTitle": "Квартальные итоги (30-60-90) для отчета"
+        },
+        {
+          "sheetId": "3d7c87f5-bd37-4317-a37b-a05152e52a26",
+          "sheetTitle": "Ликвидность новинок"
+        },
+        {
+          "sheetId": "6a822262-22b0-4d26-a872-0dbf8a8610ce",
+          "sheetTitle": "Оборачиваемость"
+        },
+        {
+          "sheetId": "823a44c5-cba6-4c59-b19d-956ba5b55d12",
+          "sheetTitle": "Описание"
+        },
+        {
+          "sheetId": "5aaf13c3-244f-495d-b817-d1f3c2e4040e",
+          "sheetTitle": "Производство"
+        },
+        {
+          "sheetId": "585403ba-80eb-4069-ba72-515e1a1234f4",
+          "sheetTitle": "РДЦ проверка"
+        },
+        {
+          "sheetId": "b4f574e7-2589-44af-8d0d-ad4c46d23a5c",
+          "sheetTitle": "Служебная_Проверка_данных"
+        },
+        {
+          "sheetId": "49a08dbe-ffce-416f-aa4f-d1a9c387057a",
+          "sheetTitle": "Сравнение цифровых продаж по клиентам и с бумажной продукцией"
+        },
+        {
+          "sheetId": "a3dffcf4-73f3-4dc3-aff2-54eb81dbf2d2",
+          "sheetTitle": "Стартовые розничные продажи за 90 дней"
+        },
+        {
+          "sheetId": "0f213764-5912-475d-bd03-b9db33da538c",
+          "sheetTitle": "Тест"
+        },
+        {
+          "sheetId": "b0d89fef-cdc1-48f9-8bc2-dfbdb215b439",
+          "sheetTitle": "ТестированиеМер"
+        },
+        {
+          "sheetId": "c2ee2d36-96c4-4de1-a188-fb6c6e056ed3",
+          "sheetTitle": "Универсальный отчет"
+        },
+        {
+          "sheetId": "5d504c90-d9c9-48e4-a260-148e0d0890a5",
+          "sheetTitle": "Универсальный отчет (простая таблица)"
+        },
+        {
+          "sheetId": "9b05a555-e14f-419e-9bcd-86eb49062d49",
+          "sheetTitle": "Цифровая продукция (подробнее)"
+        },
+        {
+          "sheetId": "bd49b23a-cb99-443e-bf22-56e8893bd868",
+          "sheetTitle": "Цифровая продукция - факторы динамики продаж, для Отчёта"
+        },
+        {
+          "sheetId": "85eafa8c-e175-4721-a7c9-11ab212cf9d1",
+          "sheetTitle": "Цифровая продукция 1 для отчета"
+        },
+        {
+          "sheetId": "9b13c4ca-69ee-4f58-bb13-8782bdcf8915",
+          "sheetTitle": "Цифровая продукция по Альянсам для отчета"
+        },
+        {
+          "sheetId": "541169b3-0e56-4460-80c2-80ec2d0b1fa9",
+          "sheetTitle": "Цифровая продукция по отделам"
+        }
+      ],
+      "mainSheets": [
+        {
+          "sheetId": "3cb73060-37b3-4abf-8a62-187d564421bf",
+          "sheetTitle": "old_Квартальные итоги (30-60-90)"
+        },
+        {
+          "sheetId": "459ba39b-b5f5-4b1c-a066-b0a09a7b8441",
+          "sheetTitle": "Дашборд Оперативный"
+        },
+        {
+          "sheetId": "70f8a0aa-d1a6-409f-b55e-b4d91ebe2201",
+          "sheetTitle": "Дашборд по итогам месяца"
+        },
+        {
+          "sheetId": "304ac5d8-f712-4201-8497-8ae9ebb4bfb7",
+          "sheetTitle": "Динамика потребления. Условные часы"
+        },
+        {
+          "sheetId": "02aa21a6-5eb2-46e7-8cb4-c0405fdfb825",
+          "sheetTitle": "Динамика потребления.Подписка"
+        },
+        {
+          "sheetId": "873c672c-6d14-4150-84e3-1f27c3c2d763",
+          "sheetTitle": "Динамика потребления.Подписка"
+        },
+        {
+          "sheetId": "02aa21a6-5eb2-46e7-8cb4-c0405fdfb825",
+          "sheetTitle": "Динамика потребления.Скачивания"
+        },
+        {
+          "sheetId": "873c672c-6d14-4150-84e3-1f27c3c2d763",
+          "sheetTitle": "Динамика потребления.Скачивания"
+        },
+        {
+          "sheetId": "6abafcce-b3cc-43f5-b5b4-c27f1b851a3d",
+          "sheetTitle": "Динамика потребления.Фиксы общие"
+        },
+        {
+          "sheetId": "d7ef74bb-5d67-4edf-b0bc-2b7fbf051fc4",
+          "sheetTitle": "Динамика скачиваний и подписки ЦП  в руб. за 12 месяцев"
+        },
+        {
+          "sheetId": "e10ce9bb-4212-455b-8f43-c1da4a287e6d",
+          "sheetTitle": "Дневник редактора"
+        },
+        {
+          "sheetId": "7f0b229a-cac0-48e6-9c6c-4c1b69f77b6e",
+          "sheetTitle": "Доптиражи (2-3-4)"
+        },
+        {
+          "sheetId": "24306a18-c629-4350-b723-c2d9924cd760",
+          "sheetTitle": "Каналы и альянсы"
+        },
+        {
+          "sheetId": "219a8310-ecbd-4a9f-bc88-2bfc0819f97e",
+          "sheetTitle": "Квартальные итоги (30-60-90)"
+        },
+        {
+          "sheetId": "2109c23c-aa30-4369-8155-f69277cd8e97",
+          "sheetTitle": "Квартальные итоги (30-60-90) для отчета"
+        },
+        {
+          "sheetId": "3d7c87f5-bd37-4317-a37b-a05152e52a26",
+          "sheetTitle": "Ликвидность новинок"
+        },
+        {
+          "sheetId": "6a822262-22b0-4d26-a872-0dbf8a8610ce",
+          "sheetTitle": "Оборачиваемость"
+        },
+        {
+          "sheetId": "823a44c5-cba6-4c59-b19d-956ba5b55d12",
+          "sheetTitle": "Описание"
+        },
+        {
+          "sheetId": "5aaf13c3-244f-495d-b817-d1f3c2e4040e",
+          "sheetTitle": "Производство"
+        },
+        {
+          "sheetId": "585403ba-80eb-4069-ba72-515e1a1234f4",
+          "sheetTitle": "РДЦ проверка"
+        },
+        {
+          "sheetId": "b4f574e7-2589-44af-8d0d-ad4c46d23a5c",
+          "sheetTitle": "Служебная_Проверка_данных"
+        },
+        {
+          "sheetId": "49a08dbe-ffce-416f-aa4f-d1a9c387057a",
+          "sheetTitle": "Сравнение цифровых продаж по клиентам и с бумажной продукцией"
+        },
+        {
+          "sheetId": "a3dffcf4-73f3-4dc3-aff2-54eb81dbf2d2",
+          "sheetTitle": "Стартовые розничные продажи за 90 дней"
+        },
+        {
+          "sheetId": "c2ee2d36-96c4-4de1-a188-fb6c6e056ed3",
+          "sheetTitle": "Универсальный отчет"
+        },
+        {
+          "sheetId": "5d504c90-d9c9-48e4-a260-148e0d0890a5",
+          "sheetTitle": "Универсальный отчет (простая таблица)"
+        },
+        {
+          "sheetId": "9b05a555-e14f-419e-9bcd-86eb49062d49",
+          "sheetTitle": "Цифровая продукция (подробнее)"
+        },
+        {
+          "sheetId": "bd49b23a-cb99-443e-bf22-56e8893bd868",
+          "sheetTitle": "Цифровая продукция - факторы динамики продаж, для Отчёта"
+        },
+        {
+          "sheetId": "85eafa8c-e175-4721-a7c9-11ab212cf9d1",
+          "sheetTitle": "Цифровая продукция 1 для отчета"
+        },
+        {
+          "sheetId": "9b13c4ca-69ee-4f58-bb13-8782bdcf8915",
+          "sheetTitle": "Цифровая продукция по Альянсам для отчета"
+        },
+        {
+          "sheetId": "541169b3-0e56-4460-80c2-80ec2d0b1fa9",
+          "sheetTitle": "Цифровая продукция по отделам"
+        }
+      ],
+      "technicalSheets": [
+        {
+          "sheetId": "46fd738e-e4f7-4ce1-9304-e966191dd93a",
+          "sheetTitle": "DEV_Дневник редактора"
+        },
+        {
+          "sheetId": "e10ce9bb-4212-455b-8f43-c1da4a287e6d",
+          "sheetTitle": "DEV_Дневник редактора"
+        },
+        {
+          "sheetId": "f74899fe-160b-4743-861d-b39a6f2aae03",
+          "sheetTitle": "Dev_front_back"
+        },
+        {
+          "sheetId": "fb65e951-db5a-4a41-9434-c4c04d5ccfc4",
+          "sheetTitle": "Dev_Квартальные итоги (30-60-90) по отгрузкам"
+        },
+        {
+          "sheetId": "8d18df67-1f8c-4ff2-b404-053c7b574537",
+          "sheetTitle": "Dev_Прогнозы"
+        },
+        {
+          "sheetId": "0f213764-5912-475d-bd03-b9db33da538c",
+          "sheetTitle": "Тест"
+        },
+        {
+          "sheetId": "b0d89fef-cdc1-48f9-8bc2-dfbdb215b439",
+          "sheetTitle": "ТестированиеМер"
+        }
+      ]
+    },
+    {
+      "appName": "План-факт продаж Дистрибуции",
+      "appId": "6e97cace-acbd-4671-94b4-9487006f87c2",
+      "sheets": [
+        {
+          "sheetId": "0e466741-61b5-4d0b-953e-693324389a26",
+          "sheetTitle": "DEV_Рентабельность прирост"
+        },
+        {
+          "sheetId": "68a530bc-95a1-4dd7-a637-b6c2943ed6fa",
+          "sheetTitle": "DEV_Рентабельность, план-факт"
+        },
+        {
+          "sheetId": "755429b1-f397-472c-97d3-18722cbf75ba",
+          "sheetTitle": "EBITDA"
+        },
+        {
+          "sheetId": "8a1158ac-35c4-4a17-873d-8490c8dab71f",
+          "sheetTitle": "Динамика Чистых продаж Эксмо для МСФО"
+        },
+        {
+          "sheetId": "81ac3f5f-1fd9-4f10-9a76-ac5e24c1baa4",
+          "sheetTitle": "Дистрибуция - Выполнение KPI"
+        },
+        {
+          "sheetId": "5b9a1914-a1f3-4669-981a-d2ce3fb14b3d",
+          "sheetTitle": "Драйверы выполнения KPI по продажам"
+        },
+        {
+          "sheetId": "cbf837b3-8d82-4c13-9504-7cac13b2e148",
+          "sheetTitle": "Канал Неспециализированные сети"
+        },
+        {
+          "sheetId": "498dc04f-1fad-4cb0-9c37-e671e04b44a7",
+          "sheetTitle": "Косвенные расходы. Детализация"
+        },
+        {
+          "sheetId": "41ac6c3e-4318-44ae-873e-8cc831f5f189",
+          "sheetTitle": "План-факт по скидке Эксмо для МСФО"
+        },
+        {
+          "sheetId": "54660a8b-9234-4084-ad1e-60d5ce0d2e11",
+          "sheetTitle": "Плановые приросты"
+        },
+        {
+          "sheetId": "f387aba2-05b8-493f-ac7d-0fa3cd414b7a",
+          "sheetTitle": "Рентабельность, план-факт"
+        },
+        {
+          "sheetId": "dcb7edf6-3816-41a7-bf08-ad36a6418f0a",
+          "sheetTitle": "Сводная по альянсам"
+        },
+        {
+          "sheetId": "c170accb-e422-4c1c-ae82-014841543f7a",
+          "sheetTitle": "Скидки"
+        },
+        {
+          "sheetId": "c4e1d547-60be-4b93-9ac5-0b744fe0bb3a",
+          "sheetTitle": "Служебная_Проверка_данных"
+        },
+        {
+          "sheetId": "9d518e16-5d3b-4924-b127-d74c4499f93b",
+          "sheetTitle": "Средневзвешенная отсрочка, дн."
+        },
+        {
+          "sheetId": "a22e591d-5d03-4a69-9dc3-91cf595d965a",
+          "sheetTitle": "Универсальный отчёт"
+        },
+        {
+          "sheetId": "a92be67a-286b-4c37-b662-8fb94db970c5",
+          "sheetTitle": "Универсальный отчёт (простая таблица)"
+        },
+        {
+          "sheetId": "8ac3ce36-52dc-47e6-bbd4-362f72395258",
+          "sheetTitle": "Факт рентабельности для Финансовой отчётности"
+        }
+      ],
+      "mainSheets": [
+        {
+          "sheetId": "755429b1-f397-472c-97d3-18722cbf75ba",
+          "sheetTitle": "EBITDA"
+        },
+        {
+          "sheetId": "8a1158ac-35c4-4a17-873d-8490c8dab71f",
+          "sheetTitle": "Динамика Чистых продаж Эксмо для МСФО"
+        },
+        {
+          "sheetId": "81ac3f5f-1fd9-4f10-9a76-ac5e24c1baa4",
+          "sheetTitle": "Дистрибуция - Выполнение KPI"
+        },
+        {
+          "sheetId": "5b9a1914-a1f3-4669-981a-d2ce3fb14b3d",
+          "sheetTitle": "Драйверы выполнения KPI по продажам"
+        },
+        {
+          "sheetId": "cbf837b3-8d82-4c13-9504-7cac13b2e148",
+          "sheetTitle": "Канал Неспециализированные сети"
+        },
+        {
+          "sheetId": "498dc04f-1fad-4cb0-9c37-e671e04b44a7",
+          "sheetTitle": "Косвенные расходы. Детализация"
+        },
+        {
+          "sheetId": "41ac6c3e-4318-44ae-873e-8cc831f5f189",
+          "sheetTitle": "План-факт по скидке Эксмо для МСФО"
+        },
+        {
+          "sheetId": "54660a8b-9234-4084-ad1e-60d5ce0d2e11",
+          "sheetTitle": "Плановые приросты"
+        },
+        {
+          "sheetId": "f387aba2-05b8-493f-ac7d-0fa3cd414b7a",
+          "sheetTitle": "Рентабельность, план-факт"
+        },
+        {
+          "sheetId": "dcb7edf6-3816-41a7-bf08-ad36a6418f0a",
+          "sheetTitle": "Сводная по альянсам"
+        },
+        {
+          "sheetId": "c170accb-e422-4c1c-ae82-014841543f7a",
+          "sheetTitle": "Скидки"
+        },
+        {
+          "sheetId": "c4e1d547-60be-4b93-9ac5-0b744fe0bb3a",
+          "sheetTitle": "Служебная_Проверка_данных"
+        },
+        {
+          "sheetId": "9d518e16-5d3b-4924-b127-d74c4499f93b",
+          "sheetTitle": "Средневзвешенная отсрочка, дн."
+        },
+        {
+          "sheetId": "a22e591d-5d03-4a69-9dc3-91cf595d965a",
+          "sheetTitle": "Универсальный отчёт"
+        },
+        {
+          "sheetId": "a92be67a-286b-4c37-b662-8fb94db970c5",
+          "sheetTitle": "Универсальный отчёт (простая таблица)"
+        },
+        {
+          "sheetId": "8ac3ce36-52dc-47e6-bbd4-362f72395258",
+          "sheetTitle": "Факт рентабельности для Финансовой отчётности"
+        }
+      ],
+      "technicalSheets": [
+        {
+          "sheetId": "0e466741-61b5-4d0b-953e-693324389a26",
+          "sheetTitle": "DEV_Рентабельность прирост"
+        },
+        {
+          "sheetId": "68a530bc-95a1-4dd7-a637-b6c2943ed6fa",
+          "sheetTitle": "DEV_Рентабельность, план-факт"
+        }
+      ]
+    },
+    {
+      "appName": "Розничные продажи. Все издательства",
+      "appId": "d148f381-e493-4a29-a2c0-f72e1d93ad72",
+      "sheets": [
+        {
+          "sheetId": "723ece47-65df-451b-940c-8016ad3097fb",
+          "sheetTitle": "DEV: Доли по нишам ЧГ ЕКН"
+        },
+        {
+          "sheetId": "abafcd92-1a17-4e21-adfb-8785bf7679e4",
+          "sheetTitle": "DEV: Рейтинг Читай-города по ЕКН"
+        },
+        {
+          "sheetId": "4cdd74e6-6c71-4d47-ac87-5afdfaf6fd1d",
+          "sheetTitle": "DEV: Розничные цены"
+        },
+        {
+          "sheetId": "c813942d-4dd5-46c0-9470-faffe88b73ac",
+          "sheetTitle": "DEV: Розничные цены по ЕКН_уровень_2"
+        },
+        {
+          "sheetId": "c6dcfe31-f5c2-4314-a6de-b9a1bd163256",
+          "sheetTitle": "Анализ динамики по ЕКН_уровень_2"
+        },
+        {
+          "sheetId": "9824eade-a8f7-4a76-9f8a-81b875a80342",
+          "sheetTitle": "Динамика розничных продаж"
+        },
+        {
+          "sheetId": "b62ab8cf-0e2e-47a3-97d7-c92a0779b580",
+          "sheetTitle": "Динамика средней цены по нишам"
+        },
+        {
+          "sheetId": "142205a7-8ae9-49f5-869e-8a585e63baf8",
+          "sheetTitle": "Доли по ЕКН_уровень_2"
+        },
+        {
+          "sheetId": "30dca983-8ee8-4b15-a077-5bfd293a3a7f",
+          "sheetTitle": "Доли по ЕКН_уровень_4"
+        },
+        {
+          "sheetId": "04bd863a-fc47-4ec8-80f0-0b0bc36297b2",
+          "sheetTitle": "Доли по разделам по классификации розницы"
+        },
+        {
+          "sheetId": "43dd57b4-3c24-496f-8b74-d078567e4171",
+          "sheetTitle": "Карточка книги"
+        },
+        {
+          "sheetId": "6823cb9f-be3b-4747-b3b9-8593c5280e92",
+          "sheetTitle": "Когорты и факторный анализ"
+        },
+        {
+          "sheetId": "dd3f6c29-48d9-4b86-b92a-77eae498026e",
+          "sheetTitle": "Количество в топ-100 и топ-1000"
+        },
+        {
+          "sheetId": "77668f4f-7104-427b-b4cc-709f116d9363",
+          "sheetTitle": "Литрес. Динамика по неделям"
+        },
+        {
+          "sheetId": "4def4bb8-e298-41e9-8eca-f445e46446a3",
+          "sheetTitle": "Разделы некнижной продукции (основные)"
+        },
+        {
+          "sheetId": "03621a33-2db7-4e1e-b844-880d073d39f0",
+          "sheetTitle": "Рейтинг"
+        },
+        {
+          "sheetId": "8557369b-80ea-4818-a10e-fb15c79e0571",
+          "sheetTitle": "Рейтинг авторов"
+        },
+        {
+          "sheetId": "baace858-36e1-4cee-b84c-43925bf531d5",
+          "sheetTitle": "Рейтинг с форматом и переплётом"
+        },
+        {
+          "sheetId": "306baa9a-5bfa-46d1-8b77-dfb3936eef87",
+          "sheetTitle": "Служебная_Проверка_данных"
+        },
+        {
+          "sheetId": "c876a8ed-9f8c-416d-86a1-a6ab6d8e2450",
+          "sheetTitle": "Служебный. Мониторинг точности привязки ВБ"
+        },
+        {
+          "sheetId": "b3a04488-a911-4637-9240-b959fe9eee85",
+          "sheetTitle": "Структура издательств по возрасту ассортимента"
+        },
+        {
+          "sheetId": "cc9c2b8e-530a-45cf-98d2-3a6bd6498d6e",
+          "sheetTitle": "ТЕСТ просмотр разделов ЧГ некнижная продукция"
+        },
+        {
+          "sheetId": "b58abb3c-0e0b-4b0f-a163-69d99edce68c",
+          "sheetTitle": "Универсальный отчёт"
+        },
+        {
+          "sheetId": "447c0667-7829-4d38-9588-c78449eb0b64",
+          "sheetTitle": "Универсальный отчёт (простая форма)"
+        },
+        {
+          "sheetId": "6aeaa1a9-394c-43c2-ac29-43aecd7541c3",
+          "sheetTitle": "Ценовые диапазоны"
+        }
+      ],
+      "mainSheets": [
+        {
+          "sheetId": "c6dcfe31-f5c2-4314-a6de-b9a1bd163256",
+          "sheetTitle": "Анализ динамики по ЕКН_уровень_2"
+        },
+        {
+          "sheetId": "9824eade-a8f7-4a76-9f8a-81b875a80342",
+          "sheetTitle": "Динамика розничных продаж"
+        },
+        {
+          "sheetId": "b62ab8cf-0e2e-47a3-97d7-c92a0779b580",
+          "sheetTitle": "Динамика средней цены по нишам"
+        },
+        {
+          "sheetId": "142205a7-8ae9-49f5-869e-8a585e63baf8",
+          "sheetTitle": "Доли по ЕКН_уровень_2"
+        },
+        {
+          "sheetId": "30dca983-8ee8-4b15-a077-5bfd293a3a7f",
+          "sheetTitle": "Доли по ЕКН_уровень_4"
+        },
+        {
+          "sheetId": "04bd863a-fc47-4ec8-80f0-0b0bc36297b2",
+          "sheetTitle": "Доли по разделам по классификации розницы"
+        },
+        {
+          "sheetId": "43dd57b4-3c24-496f-8b74-d078567e4171",
+          "sheetTitle": "Карточка книги"
+        },
+        {
+          "sheetId": "6823cb9f-be3b-4747-b3b9-8593c5280e92",
+          "sheetTitle": "Когорты и факторный анализ"
+        },
+        {
+          "sheetId": "dd3f6c29-48d9-4b86-b92a-77eae498026e",
+          "sheetTitle": "Количество в топ-100 и топ-1000"
+        },
+        {
+          "sheetId": "77668f4f-7104-427b-b4cc-709f116d9363",
+          "sheetTitle": "Литрес. Динамика по неделям"
+        },
+        {
+          "sheetId": "4def4bb8-e298-41e9-8eca-f445e46446a3",
+          "sheetTitle": "Разделы некнижной продукции (основные)"
+        },
+        {
+          "sheetId": "03621a33-2db7-4e1e-b844-880d073d39f0",
+          "sheetTitle": "Рейтинг"
+        },
+        {
+          "sheetId": "8557369b-80ea-4818-a10e-fb15c79e0571",
+          "sheetTitle": "Рейтинг авторов"
+        },
+        {
+          "sheetId": "baace858-36e1-4cee-b84c-43925bf531d5",
+          "sheetTitle": "Рейтинг с форматом и переплётом"
+        },
+        {
+          "sheetId": "306baa9a-5bfa-46d1-8b77-dfb3936eef87",
+          "sheetTitle": "Служебная_Проверка_данных"
+        },
+        {
+          "sheetId": "c876a8ed-9f8c-416d-86a1-a6ab6d8e2450",
+          "sheetTitle": "Служебный. Мониторинг точности привязки ВБ"
+        },
+        {
+          "sheetId": "b3a04488-a911-4637-9240-b959fe9eee85",
+          "sheetTitle": "Структура издательств по возрасту ассортимента"
+        },
+        {
+          "sheetId": "b58abb3c-0e0b-4b0f-a163-69d99edce68c",
+          "sheetTitle": "Универсальный отчёт"
+        },
+        {
+          "sheetId": "447c0667-7829-4d38-9588-c78449eb0b64",
+          "sheetTitle": "Универсальный отчёт (простая форма)"
+        },
+        {
+          "sheetId": "6aeaa1a9-394c-43c2-ac29-43aecd7541c3",
+          "sheetTitle": "Ценовые диапазоны"
+        }
+      ],
+      "technicalSheets": [
+        {
+          "sheetId": "723ece47-65df-451b-940c-8016ad3097fb",
+          "sheetTitle": "DEV: Доли по нишам ЧГ ЕКН"
+        },
+        {
+          "sheetId": "abafcd92-1a17-4e21-adfb-8785bf7679e4",
+          "sheetTitle": "DEV: Рейтинг Читай-города по ЕКН"
+        },
+        {
+          "sheetId": "4cdd74e6-6c71-4d47-ac87-5afdfaf6fd1d",
+          "sheetTitle": "DEV: Розничные цены"
+        },
+        {
+          "sheetId": "c813942d-4dd5-46c0-9470-faffe88b73ac",
+          "sheetTitle": "DEV: Розничные цены по ЕКН_уровень_2"
+        },
+        {
+          "sheetId": "cc9c2b8e-530a-45cf-98d2-3a6bd6498d6e",
+          "sheetTitle": "ТЕСТ просмотр разделов ЧГ некнижная продукция"
+        }
+      ]
+    },
+    {
+      "appName": "Ценовой мониторинг",
+      "appId": "0c173661-0dc3-401c-970e-c556b224db44",
+      "sheets": [
+        {
+          "sheetId": "e6f30455-ec80-4dff-8be9-4f60c8a750cc",
+          "sheetTitle": "Dev_Даты"
+        },
+        {
+          "sheetId": "135f9c44-5e4e-47a4-88e5-c2feb1dc85d4",
+          "sheetTitle": "dev"
+        },
+        {
+          "sheetId": "1f5051ef-d45f-48c0-95b5-137a5097340e",
+          "sheetTitle": "dev_График_1"
+        },
+        {
+          "sheetId": "88171dec-a896-4bbf-925e-34b5e1618d9d",
+          "sheetTitle": "ВБ и Озон"
+        },
+        {
+          "sheetId": "c39c96a1-7626-49b8-a191-b43d600569d1",
+          "sheetTitle": "График"
+        },
+        {
+          "sheetId": "87a12a5d-c6c4-4cd2-8d3b-3e96386632f5",
+          "sheetTitle": "График MPStats"
+        },
+        {
+          "sheetId": "c39c96a1-7626-49b8-a191-b43d600569d1",
+          "sheetTitle": "График ЛК"
+        },
+        {
+          "sheetId": "67c407a1-432d-4d53-b526-832bd5a77bb6",
+          "sheetTitle": "График_только ВБ и Озон"
+        },
+        {
+          "sheetId": "0a970548-6a31-4c11-a15e-d379411906e1",
+          "sheetTitle": "ЕКН"
+        },
+        {
+          "sheetId": "e2db093d-c3d1-4716-b1c1-47cd0db63082",
+          "sheetTitle": "Плоская таблица"
+        },
+        {
+          "sheetId": "9082fdef-b598-46cb-b36e-df1b03096df8",
+          "sheetTitle": "По книгам по типам цен"
+        },
+        {
+          "sheetId": "9a3cce84-8bfc-4806-966e-7605e0468b94",
+          "sheetTitle": "Универсальный отчёт"
+        },
+        {
+          "sheetId": "e6010d12-7287-4823-a12c-4e2690444d55",
+          "sheetTitle": "Ценовые диапазоны"
+        }
+      ],
+      "mainSheets": [
+        {
+          "sheetId": "88171dec-a896-4bbf-925e-34b5e1618d9d",
+          "sheetTitle": "ВБ и Озон"
+        },
+        {
+          "sheetId": "c39c96a1-7626-49b8-a191-b43d600569d1",
+          "sheetTitle": "График"
+        },
+        {
+          "sheetId": "87a12a5d-c6c4-4cd2-8d3b-3e96386632f5",
+          "sheetTitle": "График MPStats"
+        },
+        {
+          "sheetId": "c39c96a1-7626-49b8-a191-b43d600569d1",
+          "sheetTitle": "График ЛК"
+        },
+        {
+          "sheetId": "67c407a1-432d-4d53-b526-832bd5a77bb6",
+          "sheetTitle": "График_только ВБ и Озон"
+        },
+        {
+          "sheetId": "0a970548-6a31-4c11-a15e-d379411906e1",
+          "sheetTitle": "ЕКН"
+        },
+        {
+          "sheetId": "e2db093d-c3d1-4716-b1c1-47cd0db63082",
+          "sheetTitle": "Плоская таблица"
+        },
+        {
+          "sheetId": "9082fdef-b598-46cb-b36e-df1b03096df8",
+          "sheetTitle": "По книгам по типам цен"
+        },
+        {
+          "sheetId": "9a3cce84-8bfc-4806-966e-7605e0468b94",
+          "sheetTitle": "Универсальный отчёт"
+        },
+        {
+          "sheetId": "e6010d12-7287-4823-a12c-4e2690444d55",
+          "sheetTitle": "Ценовые диапазоны"
+        }
+      ],
+      "technicalSheets": [
+        {
+          "sheetId": "e6f30455-ec80-4dff-8be9-4f60c8a750cc",
+          "sheetTitle": "Dev_Даты"
+        },
+        {
+          "sheetId": "135f9c44-5e4e-47a4-88e5-c2feb1dc85d4",
+          "sheetTitle": "dev"
+        },
+        {
+          "sheetId": "1f5051ef-d45f-48c0-95b5-137a5097340e",
+          "sheetTitle": "dev_График_1"
+        }
+      ]
+    },
+    {
+      "appName": "Маркетинговый калькулятор",
+      "appId": "b74f3613-abb4-4556-a1b6-c8cbe7ec4483",
+      "sheets": [
+        {
+          "sheetId": "a5b82c18-372a-4216-a3ea-289452923ce5",
+          "sheetTitle": "Выгрузка по акциям и номенклатуре"
+        },
+        {
+          "sheetId": "73a7163e-305d-4e08-b5dc-1bd992ee7467",
+          "sheetTitle": "Калькулятор планируемых акций"
+        },
+        {
+          "sheetId": "d68842d2-dbae-49f3-be47-bbf73e8a385e",
+          "sheetTitle": "Покнижные плановые расходы (1)"
+        },
+        {
+          "sheetId": "94c61db2-f365-46f8-9cbe-68e1bc496f50",
+          "sheetTitle": "Покнижные плановые расходы (2)"
+        },
+        {
+          "sheetId": "82d483fc-634e-428b-9bb3-628dc33efa6c",
+          "sheetTitle": "Покнижные плановые расходы (2) (1)"
+        },
+        {
+          "sheetId": "cac6cbfd-1fcc-437e-8a0d-f93a5fae73bb",
+          "sheetTitle": "Покнижные плановые расходы (3)"
+        },
+        {
+          "sheetId": "70f82fec-b91d-44ce-932c-35f14e7eaa04",
+          "sheetTitle": "Покнижные плановые расходы (4)"
+        },
+        {
+          "sheetId": "f5427e7e-64d2-4b3e-ba94-68336f646c81",
+          "sheetTitle": "Покнижные расходы"
+        },
+        {
+          "sheetId": "5102b4e2-df73-4e60-ab5d-1de2c5030a62",
+          "sheetTitle": "Полнота данных"
+        },
+        {
+          "sheetId": "3c5fee28-ac36-4ad2-85b6-71f2f99937ac",
+          "sheetTitle": "Проверка заполненности условий"
+        },
+        {
+          "sheetId": "24bc00a2-809c-47c1-b90a-54ae3af3017a",
+          "sheetTitle": "Список акций"
+        },
+        {
+          "sheetId": "10da6c1d-f8a5-4c4a-af85-8ffa6a45e98e",
+          "sheetTitle": "Список проблем к исправлению"
+        },
+        {
+          "sheetId": "4012e963-ddd9-4f0e-9713-8eea3c2a00c0",
+          "sheetTitle": "Структура маркетинговых расходов"
+        },
+        {
+          "sheetId": "1067055e-e2f0-4159-abf2-9a64e40c51bc",
+          "sheetTitle": "Универсальный отчёт"
+        }
+      ],
+      "mainSheets": [
+        {
+          "sheetId": "a5b82c18-372a-4216-a3ea-289452923ce5",
+          "sheetTitle": "Выгрузка по акциям и номенклатуре"
+        },
+        {
+          "sheetId": "73a7163e-305d-4e08-b5dc-1bd992ee7467",
+          "sheetTitle": "Калькулятор планируемых акций"
+        },
+        {
+          "sheetId": "f5427e7e-64d2-4b3e-ba94-68336f646c81",
+          "sheetTitle": "Покнижные расходы"
+        },
+        {
+          "sheetId": "5102b4e2-df73-4e60-ab5d-1de2c5030a62",
+          "sheetTitle": "Полнота данных"
+        },
+        {
+          "sheetId": "3c5fee28-ac36-4ad2-85b6-71f2f99937ac",
+          "sheetTitle": "Проверка заполненности условий"
+        },
+        {
+          "sheetId": "24bc00a2-809c-47c1-b90a-54ae3af3017a",
+          "sheetTitle": "Список акций"
+        },
+        {
+          "sheetId": "10da6c1d-f8a5-4c4a-af85-8ffa6a45e98e",
+          "sheetTitle": "Список проблем к исправлению"
+        },
+        {
+          "sheetId": "4012e963-ddd9-4f0e-9713-8eea3c2a00c0",
+          "sheetTitle": "Структура маркетинговых расходов"
+        },
+        {
+          "sheetId": "1067055e-e2f0-4159-abf2-9a64e40c51bc",
+          "sheetTitle": "Универсальный отчёт"
+        }
+      ],
+      "technicalSheets": [
+        {
+          "sheetId": "d68842d2-dbae-49f3-be47-bbf73e8a385e",
+          "sheetTitle": "Покнижные плановые расходы (1)"
+        },
+        {
+          "sheetId": "94c61db2-f365-46f8-9cbe-68e1bc496f50",
+          "sheetTitle": "Покнижные плановые расходы (2)"
+        },
+        {
+          "sheetId": "82d483fc-634e-428b-9bb3-628dc33efa6c",
+          "sheetTitle": "Покнижные плановые расходы (2) (1)"
+        },
+        {
+          "sheetId": "cac6cbfd-1fcc-437e-8a0d-f93a5fae73bb",
+          "sheetTitle": "Покнижные плановые расходы (3)"
+        },
+        {
+          "sheetId": "70f82fec-b91d-44ce-932c-35f14e7eaa04",
+          "sheetTitle": "Покнижные плановые расходы (4)"
+        }
+      ]
+    },
+    {
+      "appName": "Маркетинговый дашборд",
+      "appId": "661a228f-9a1b-47c1-9496-b5be3edcfc43",
+      "sheets": [
+        {
+          "sheetId": "1d94eba8-68fe-41a1-9bce-cce1790cc989",
+          "sheetTitle": "DEV_Новинки"
+        },
+        {
+          "sheetId": "61722797-0fdb-4348-92b8-315991aaac83",
+          "sheetTitle": "DEV_Таргетинг"
+        },
+        {
+          "sheetId": "15cdd0e6-ce4a-4532-b47e-d25a240ffc32",
+          "sheetTitle": "Старинки"
+        },
+        {
+          "sheetId": "786d1ade-bd77-4b3a-b1d9-02319d4eb29d",
+          "sheetTitle": "Таргетинг"
+        },
+        {
+          "sheetId": "2c9328b0-b454-41b2-9e56-52f356d58c30",
+          "sheetTitle": "Таргетинг (1)"
+        },
+        {
+          "sheetId": "63aae752-ed14-4ef9-9f36-b82070e2b4c9",
+          "sheetTitle": "Универсальный отчёт"
+        }
+      ],
+      "mainSheets": [
+        {
+          "sheetId": "15cdd0e6-ce4a-4532-b47e-d25a240ffc32",
+          "sheetTitle": "Старинки"
+        },
+        {
+          "sheetId": "786d1ade-bd77-4b3a-b1d9-02319d4eb29d",
+          "sheetTitle": "Таргетинг"
+        },
+        {
+          "sheetId": "63aae752-ed14-4ef9-9f36-b82070e2b4c9",
+          "sheetTitle": "Универсальный отчёт"
+        }
+      ],
+      "technicalSheets": [
+        {
+          "sheetId": "1d94eba8-68fe-41a1-9bce-cce1790cc989",
+          "sheetTitle": "DEV_Новинки"
+        },
+        {
+          "sheetId": "61722797-0fdb-4348-92b8-315991aaac83",
+          "sheetTitle": "DEV_Таргетинг"
+        },
+        {
+          "sheetId": "2c9328b0-b454-41b2-9e56-52f356d58c30",
+          "sheetTitle": "Таргетинг (1)"
+        }
+      ]
+    }
+  ],
+  "ambiguities": {
+    "sameSheetIdMultipleTitles": [
+      {
+        "appName": "Факт продаж",
+        "sheetId": "b05c4461-9f3b-41a3-a126-3c445c3f0d2a",
+        "sheetTitles": [
+          "DEV_рейтинг авторов произведений",
+          "Рейтинг авторов произведений"
+        ]
+      },
+      {
+        "appName": "Факт продаж",
+        "sheetId": "cf96b446-2e99-4f82-a5fb-0356520d1ff5",
+        "sheetTitles": [
+          "DEV_рейтинг произведений",
+          "Рейтинг произведений"
+        ]
+      },
+      {
+        "appName": "Дашборд Редакций",
+        "sheetId": "02aa21a6-5eb2-46e7-8cb4-c0405fdfb825",
+        "sheetTitles": [
+          "Динамика потребления.Подписка",
+          "Динамика потребления.Скачивания"
+        ]
+      },
+      {
+        "appName": "Дашборд Редакций",
+        "sheetId": "873c672c-6d14-4150-84e3-1f27c3c2d763",
+        "sheetTitles": [
+          "Динамика потребления.Подписка",
+          "Динамика потребления.Скачивания"
+        ]
+      },
+      {
+        "appName": "Дашборд Редакций",
+        "sheetId": "e10ce9bb-4212-455b-8f43-c1da4a287e6d",
+        "sheetTitles": [
+          "DEV_Дневник редактора",
+          "Дневник редактора"
+        ]
+      },
+      {
+        "appName": "Ценовой мониторинг",
+        "sheetId": "c39c96a1-7626-49b8-a191-b43d600569d1",
+        "sheetTitles": [
+          "График",
+          "График ЛК"
+        ]
+      },
+    ],
+    "sameSheetTitleMultipleIds": [
+      {
+        "appName": "Факт продаж",
+        "sheetTitle": "Универсальный отчёт (простая таблица)",
+        "sheetIds": [
+          "02f5dbc7-21b8-4ea1-a603-95949cd403d8",
+          "732694be-6ca2-47eb-9f88-2b2e062ed670"
+        ]
+      },
+      {
+        "appName": "Дашборд Редакций",
+        "sheetTitle": "DEV_Дневник редактора",
+        "sheetIds": [
+          "46fd738e-e4f7-4ce1-9304-e966191dd93a",
+          "e10ce9bb-4212-455b-8f43-c1da4a287e6d"
+        ]
+      },
+      {
+        "appName": "Дашборд Редакций",
+        "sheetTitle": "Динамика потребления.Подписка",
+        "sheetIds": [
+          "02aa21a6-5eb2-46e7-8cb4-c0405fdfb825",
+          "873c672c-6d14-4150-84e3-1f27c3c2d763"
+        ]
+      },
+      {
+        "appName": "Дашборд Редакций",
+        "sheetTitle": "Динамика потребления.Скачивания",
+        "sheetIds": [
+          "02aa21a6-5eb2-46e7-8cb4-c0405fdfb825",
+          "873c672c-6d14-4150-84e3-1f27c3c2d763"
+        ]
+      }
+    ]
+  },
+  "sheetClassification": {
+    "technicalMarkers": [
+      "dev",
+      "test",
+      "тест"
+    ],
+    "technicalPattern": "(number)",
+    "rule": "technical if sheetTitle contains any marker case-insensitively or contains a numeric suffix in parentheses; otherwise main"
+  }
+}
